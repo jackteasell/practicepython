@@ -10,6 +10,3 @@ thisYear = input("Did you already have your birthday this year?[y/n]: ")
 if (thisYear == "n"):
     age += 1
 print(name,"you will be 100 years old in the year: " , 100+((today.year) - age))
-
-
-
